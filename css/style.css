@@ -26,14 +26,14 @@ tr{
 
 body{
   color: #000000;
-  font-size: 16px;
   margin: 1.2em;
-  background-size: cover ;
-  background-position: center;
-  font-family: "Andika", "Sans-Serif";
+  font-family: "Andika", sans-serif;
+  font-size: 16px;
   background-color:#DDDDDD;
   background-image:url(../images/pigeon-background.JPEG);
-  
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover ;
   /*Req 1*/
 }
 
